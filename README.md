@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelTJ1949
-- 👀 I’m interested in hacking my 2019 Volt so as to provide full time LCA (lane centering) as opposed to it's now present LKA (lane keeping (occasional)
+- 👀 I’m interested in hacking my 2019 Volt so as to provide full time LCA (lane centering) as opposed to it's now present LKA (lane keeping [occasional])
 - 🌱 I’m currently learning to use github...
 - 💞️ I’m looking to collaborate on auto self driving tech
 - 📫 How to reach me ... mcmccomb@hotmail.com...  hope i'm not setting myself up for trouble somehow
